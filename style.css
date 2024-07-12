@@ -8,7 +8,7 @@
 }
 
 body {
-      background-color: #081b29;
+      background: #081b29;
 }
 
 .header {
@@ -17,5 +17,5 @@ body {
     left: 0;
     width: 100%;
     padding: 20px 10%;
-    background-color: yellowgreen;
+    background: yellowgreen;
 }
